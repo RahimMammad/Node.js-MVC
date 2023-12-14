@@ -1,5 +1,5 @@
 import express from "express"
-import User from "../schemas/UserSchema";
+import User from "../schemas/UserSchema.js";
 
 const route = express.Router();
 
